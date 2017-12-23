@@ -1,0 +1,8 @@
+{
+	"tap-list-file": "./tap-list.json",
+	"ftp": {
+		"host": "",
+		"user": "",
+		"password": ""
+	}
+}
