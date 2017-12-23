@@ -1,0 +1,193 @@
+{
+    "1": {
+        "name": "Mirror Mirror",
+        "description": "The Reserve Series romance all began with our first release of this limited-edition brew. Mirror Mirror, born of a double batch of Mirror Pond Pale Ale, is an inspired, barrel-aged barley wine layered with intriguing nuances. Explore this latest incarnation and enjoy its delicious complexity in every sip.",
+        "abv": "11",
+        "labels": {
+            "icon": "https://s3.amazonaws.com/brewerydbapi/beer/0DpNPW/upload_23dcQi-icon.png",
+            "medium": "https://s3.amazonaws.com/brewerydbapi/beer/0DpNPW/upload_23dcQi-medium.png",
+            "large": "https://s3.amazonaws.com/brewerydbapi/beer/0DpNPW/upload_23dcQi-large.png"
+        },
+        "style": {
+            "name": "American-Style Barley Wine Ale"
+        },
+        "brewery": {
+            "name": "Deschutes Brewery",
+            "nameShortDisplay": "Deschutes",
+            "images": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/YHij73/upload_jb2T95-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/YHij73/upload_jb2T95-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/brewery/YHij73/upload_jb2T95-large.png",
+                "squareMedium": "https://s3.amazonaws.com/brewerydbapi/brewery/YHij73/upload_jb2T95-squareMedium.png",
+                "squareLarge": "https://s3.amazonaws.com/brewerydbapi/brewery/YHij73/upload_jb2T95-squareLarge.png"
+            }
+        }
+    },
+    "2": {
+        "name": "Magic Mirror",
+        "description": "Imperial Kottbüsser Style Ale\r\nOnce upon a time German beer was only deemed pure if it contained the four orthodox ingredients of brewing: water, barley, hops, and yeast. During this time, an ale known as Köttbusser was outlawed because it contained oats, honey, and molasses. Over the centuries since its prohibition, Köttbusser became a lost brewing style. At Grimm Brothers, we’ve created an imperial version of this beer and named it Magic Mirror.   Magic Mirror is the antithesis ale to Snow Drop, brewed with more grains, honey and molasses and aged in oak, this beer is a malty big light colored ale.  It has just enough hops to balance the sweetness but leave a refreshing oak flavor on your tongue.",
+        "abv": "9.5",
+        "labels": {
+            "icon": "https://s3.amazonaws.com/brewerydbapi/beer/OwxwuV/upload_yFSgc6-icon.png",
+            "medium": "https://s3.amazonaws.com/brewerydbapi/beer/OwxwuV/upload_yFSgc6-medium.png",
+            "large": "https://s3.amazonaws.com/brewerydbapi/beer/OwxwuV/upload_yFSgc6-large.png"
+        },
+        "style": {
+            "name": "Experimental Beer (Lager or Ale)"
+        },
+        "brewery": {
+            "name": "Grimm Brothers Brewhouse",
+            "nameShortDisplay": "Grimm Brothers Brewhouse",
+            "images": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Vu3TSk/upload_C83FBS-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Vu3TSk/upload_C83FBS-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Vu3TSk/upload_C83FBS-large.png",
+                "squareMedium": "https://s3.amazonaws.com/brewerydbapi/brewery/Vu3TSk/upload_C83FBS-squareMedium.png",
+                "squareLarge": "https://s3.amazonaws.com/brewerydbapi/brewery/Vu3TSk/upload_C83FBS-squareLarge.png"
+            }
+        }
+    },
+    "3": {
+        "name": "Canadian Breakfast Stout (CBS)",
+        "description": "Canadian Breakfast Stout is an Imperial Stout brewed with a blend of coffees and imported chocolates, then aged in spent bourbon barrels that have most recently been aging pure Michigan maple syrup. The final product has had stellar reviews and is usually among the top 5 highest rated beers in the world on BeerAdvocate.",
+        "abv": "10.6",
+        "srm": "41",
+        "labels": {
+            "icon": "https://s3.amazonaws.com/brewerydbapi/beer/oHbFpl/upload_CWaIIi-icon.png",
+            "medium": "https://s3.amazonaws.com/brewerydbapi/beer/oHbFpl/upload_CWaIIi-medium.png",
+            "large": "https://s3.amazonaws.com/brewerydbapi/beer/oHbFpl/upload_CWaIIi-large.png"
+        },
+        "style": {
+            "name": "American-Style Imperial Stout"
+        },
+        "brewery": {
+            "name": "Founders Brewing Company",
+            "nameShortDisplay": "Founders",
+            "images": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/Idm5Y5/upload_O8MoRg-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/Idm5Y5/upload_O8MoRg-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/brewery/Idm5Y5/upload_O8MoRg-large.png",
+                "squareMedium": "https://s3.amazonaws.com/brewerydbapi/brewery/Idm5Y5/upload_O8MoRg-squareMedium.png",
+                "squareLarge": "https://s3.amazonaws.com/brewerydbapi/brewery/Idm5Y5/upload_O8MoRg-squareLarge.png"
+            }
+        }
+    },
+    "4": {
+        "name": "Barrel-Aged Legion",
+        "description": "Individual wooden barrels impart distinctly different flavors: vanilla, coconut, honey and toast, as well as any contribution from the barrels’ previous contents. As a craft brewery, we love the varying nuances imparted by each of these amazing barrels, and strive to make each release in this series a unique one! In this batch, we have aged Legion – our popular Russian Imperial Stout – in a variety of bourbon and whiskey barrels. The result is a beautiful marriage of the beer, barrel and spirit, contributing flavors of toffee, vanilla and candied fruits, all mingling with roasty, smooth Legion.",
+        "abv": "11.6",
+        "ibu": "70",
+        "labels": {
+            "icon": "https://s3.amazonaws.com/brewerydbapi/beer/tHropu/upload_ygExfT-icon.png",
+            "medium": "https://s3.amazonaws.com/brewerydbapi/beer/tHropu/upload_ygExfT-medium.png",
+            "large": "https://s3.amazonaws.com/brewerydbapi/beer/tHropu/upload_ygExfT-large.png"
+        },
+        "style": {
+            "name": "American-Style Imperial Stout"
+        },
+        "brewery": {
+            "name": "Community Beer Company",
+            "nameShortDisplay": "Community",
+            "images": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/w6aDSY/upload_d3AfK4-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/w6aDSY/upload_d3AfK4-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/brewery/w6aDSY/upload_d3AfK4-large.png",
+                "squareMedium": "https://s3.amazonaws.com/brewerydbapi/brewery/w6aDSY/upload_d3AfK4-squareMedium.png",
+                "squareLarge": "https://s3.amazonaws.com/brewerydbapi/brewery/w6aDSY/upload_d3AfK4-squareLarge.png"
+            }
+        }
+    },
+    "5": {
+        "name": "Cheer Wine",
+        "description": "Tart Cheery Wheat Wine.",
+        "abv": "11",
+        "labels": {
+            "icon": "https://s3.amazonaws.com/brewerydbapi/beer/RaJrvK/upload_UW8fBe-icon.png",
+            "medium": "https://s3.amazonaws.com/brewerydbapi/beer/RaJrvK/upload_UW8fBe-medium.png",
+            "large": "https://s3.amazonaws.com/brewerydbapi/beer/RaJrvK/upload_UW8fBe-large.png"
+        },
+        "style": {
+            "name": "American-Style Wheat Wine Ale"
+        },
+        "brewery": {
+            "name": "Martin House Brewing Company",
+            "nameShortDisplay": "Martin House",
+            "images": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/YgHnZO/upload_I5oo0x-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/YgHnZO/upload_I5oo0x-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/brewery/YgHnZO/upload_I5oo0x-large.png",
+                "squareMedium": "https://s3.amazonaws.com/brewerydbapi/brewery/YgHnZO/upload_I5oo0x-squareMedium.png",
+                "squareLarge": "https://s3.amazonaws.com/brewerydbapi/brewery/YgHnZO/upload_I5oo0x-squareLarge.png"
+            }
+        }
+    },
+    "6": {
+        "name": "Velvet Merkin",
+        "description": "This is our Velvet Merlin Oatmeal Stout aged in Bourbon Barrels and it just won the 2010 and 2011 Gold medal at the GABF for barrel aged beers!!!  This beer goes into the barrels as a roasty dark chocolate, coffee accented mild mannered stout and comes out transformed as a milk chocolate, smooth dark cherry, vanilla and coconut infused masterpiece.  We are incredibly proud of this beer and it seems as though it was always meant to be a barrel aged brew.\r\n\r\n100% Oak Barrel Aged\r\n\r\nVery limited draft availability.",
+        "abv": "8.5",
+        "ibu": "33",
+        "srm": "41",
+        "labels": {
+            "icon": "https://s3.amazonaws.com/brewerydbapi/beer/7BaMsI/upload_VvXCdr-icon.png",
+            "medium": "https://s3.amazonaws.com/brewerydbapi/beer/7BaMsI/upload_VvXCdr-medium.png",
+            "large": "https://s3.amazonaws.com/brewerydbapi/beer/7BaMsI/upload_VvXCdr-large.png"
+        },
+        "style": {
+            "name": "Oatmeal Stout"
+        },
+        "brewery": {
+            "name": "Firestone Walker Brewing Company",
+            "nameShortDisplay": "Firestone Walker",
+            "images": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/qghrkC/upload_0tjVJU-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/qghrkC/upload_0tjVJU-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/brewery/qghrkC/upload_0tjVJU-large.png",
+                "squareMedium": "https://s3.amazonaws.com/brewerydbapi/brewery/qghrkC/upload_0tjVJU-squareMedium.png",
+                "squareLarge": "https://s3.amazonaws.com/brewerydbapi/brewery/qghrkC/upload_0tjVJU-squareLarge.png"
+            }
+        }
+    },
+    "7": {
+        "name": "Two Hearted Ale",
+        "description": "Bell's Two Hearted Ale is defined by its intense hop aroma and malt balance. Hopped exclusively with the Centennial hop varietal from the Pacific Northwest, massive additions in the kettle and again in the fermenter lend their characteristic grapefruit and pine resin aromas. A significant malt body balances this hop presence; together with the signature fruity aromas of Bell's house yeast, this leads to a remarkably drinkable American-style India Pale  Ale.",
+        "abv": "7",
+        "srm": "9",
+        "labels": {
+            "icon": "https://s3.amazonaws.com/brewerydbapi/beer/Kk1Cyr/upload_p4loMh-icon.png",
+            "medium": "https://s3.amazonaws.com/brewerydbapi/beer/Kk1Cyr/upload_p4loMh-medium.png",
+            "large": "https://s3.amazonaws.com/brewerydbapi/beer/Kk1Cyr/upload_p4loMh-large.png"
+        },
+        "style": {
+            "name": "American-Style India Pale Ale"
+        },
+        "brewery": {
+            "name": "Bell's Brewery",
+            "nameShortDisplay": "Bell's",
+            "images": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/noGtDY/upload_wkGjOC-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/noGtDY/upload_wkGjOC-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/brewery/noGtDY/upload_wkGjOC-large.png",
+                "squareMedium": "https://s3.amazonaws.com/brewerydbapi/brewery/noGtDY/upload_wkGjOC-squareMedium.png",
+                "squareLarge": "https://s3.amazonaws.com/brewerydbapi/brewery/noGtDY/upload_wkGjOC-squareLarge.png"
+            }
+        }
+    },
+    "8": {
+        "name": "Bomb! Vanilla",
+        "abv": "14",
+        "style": {
+            "name": "American-Style Imperial Stout"
+        },
+        "brewery": {
+            "name": "Prairie Artisan Ales",
+            "nameShortDisplay": "Prairie",
+            "images": {
+                "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/8rc5kA/upload_IYRnlQ-icon.png",
+                "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/8rc5kA/upload_IYRnlQ-medium.png",
+                "large": "https://s3.amazonaws.com/brewerydbapi/brewery/8rc5kA/upload_IYRnlQ-large.png",
+                "squareMedium": "https://s3.amazonaws.com/brewerydbapi/brewery/8rc5kA/upload_IYRnlQ-squareMedium.png",
+                "squareLarge": "https://s3.amazonaws.com/brewerydbapi/brewery/8rc5kA/upload_IYRnlQ-squareLarge.png"
+            }
+        }
+    }
+}
