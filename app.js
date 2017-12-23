@@ -1,11 +1,12 @@
 // Import the discord.js module
-const Discord = require('discord.js');
+const Discord = require('discord.js'),
+      config = require('config');
 
 // Create an instance of a Discord client
 const client = new Discord.Client();
 
 // The token of your bot - https://discordapp.com/developers/applications/me
-const token = 'MzYzMTEwMDUyMDExNDQyMTc2.DK8cQQ.EpcK0bsbhn0dwV4Poq43YOtgClA';
+const token = config.botToken;
 
 const DEFAULT_STATE = new CommandState();
 var currentState = DEFAULT_STATE;

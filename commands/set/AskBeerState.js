@@ -1,9 +1,10 @@
 var _ = require('lodash'),
     BreweryDb = require('brewerydb-node'),
     Promise = require('bluebird'),
+    config = require('config')
     AskTapState = require('./AskTapState');
 
-var brewdb = new BreweryDb('6e0cc8998b5fa92aef5c0fafa48c525b');
+var brewdb = new BreweryDb(config.breweryDbToken);
 Promise.promisifyAll(brewdb.beer);
 
 function AskBeerState(results){
