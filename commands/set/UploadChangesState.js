@@ -51,7 +51,6 @@ UploadChangesState.prototype.process = async function(message) {
     message.channel.send("Updating tap list...");
     var ftp = new PromiseFtp();
     var serverMessage = await ftp.connect(config.ftp);
-    console.log(`FTP Server Message: ${serverMessage}`);
 
     await ftp.put(dataFile, 'tap-list.json');
     await ftp.end();
