@@ -52,7 +52,7 @@ function CommandState(){
 }
 
 CommandState.prototype.process = async function(message){
-        if (message.content.startsWith('tb')) {
+        if (message.content.toLowerCase().startsWith('tb')) {
             var command = message.content.substr(3).trim();
             args = command.split(' ');
 
