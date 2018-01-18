@@ -7,8 +7,13 @@ var brewdb = new BreweryDb('6e0cc8998b5fa92aef5c0fafa48c525b');
 Promise.promisifyAll(brewdb.search);
 
 module.exports.run = async function(args, respond){
-    var query = args.join(' ');
+    var query = args.join(' ').trim();
 
+    if (!query){
+        respond("You didn't specify a brewery and beer name. Type 'tb help' for details.");
+        return;
+    }
+    
     var results = await brewdb.search.beersAsync({ q:query, type: "beer", withBreweries: "Y" });
 
     if (results.length == 0){
