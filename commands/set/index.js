@@ -40,7 +40,7 @@ module.exports.run = async function(args, respond){
         respond(message);
     }
 
-    respond("Which beer?");
+    respond("Which beer? If you don't see what you're looking for, type the search again, otherwise type `cancel`.");
 
     return AskBeerState.new(results);
 }
