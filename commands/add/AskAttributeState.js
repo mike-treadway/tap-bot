@@ -6,6 +6,12 @@ function AskAttributeState(ask, callback, next){
 }
 
 AskAttributeState.prototype.process = async function(message) {
+
+    if (message.content.toLowerCase() == "cancel"){
+        message.channel.send("OK, user cancelled.");
+        return undefined;
+    }
+
     this._callback(message.content);
 
     if (this._next.ask){
