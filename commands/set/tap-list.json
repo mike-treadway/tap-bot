@@ -98,27 +98,16 @@
         }
     },
     "5": {
-        "name": "Cheer Wine",
-        "description": "Tart Cheery Wheat Wine.",
-        "abv": "11",
-        "labels": {
-            "icon": "https://s3.amazonaws.com/brewerydbapi/beer/RaJrvK/upload_UW8fBe-icon.png",
-            "medium": "https://s3.amazonaws.com/brewerydbapi/beer/RaJrvK/upload_UW8fBe-medium.png",
-            "large": "https://s3.amazonaws.com/brewerydbapi/beer/RaJrvK/upload_UW8fBe-large.png"
-        },
+        "name": "Commander Rye'ker",
+        "description": "",
+        "abv": "?",
+        "ibu": "",
+        "labels": "",
         "style": {
-            "name": "American-Style Wheat Wine Ale"
+            "name": "American Rye IPA"
         },
         "brewery": {
-            "name": "Martin House Brewing Company",
-            "nameShortDisplay": "Martin House",
-            "images": {
-                "icon": "https://s3.amazonaws.com/brewerydbapi/brewery/YgHnZO/upload_I5oo0x-icon.png",
-                "medium": "https://s3.amazonaws.com/brewerydbapi/brewery/YgHnZO/upload_I5oo0x-medium.png",
-                "large": "https://s3.amazonaws.com/brewerydbapi/brewery/YgHnZO/upload_I5oo0x-large.png",
-                "squareMedium": "https://s3.amazonaws.com/brewerydbapi/brewery/YgHnZO/upload_I5oo0x-squareMedium.png",
-                "squareLarge": "https://s3.amazonaws.com/brewerydbapi/brewery/YgHnZO/upload_I5oo0x-squareLarge.png"
-            }
+            "name": "Ancient Goat Hunters"
         }
     },
     "6": {
