@@ -62,3 +62,4 @@ typings/
 
 # Config
 config/local.json
+commands/set/tap-list.json
