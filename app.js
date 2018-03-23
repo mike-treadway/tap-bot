@@ -56,7 +56,15 @@ CommandState.prototype.process = async function(message){
             var command = message.content.substr(3).trim();
             args = command.split(' ');
 
-            cmd = require('./commands/' + args[0]);
+            var cmd;
+            try{
+                cmd = require('./commands/' + args[0]);
+            } catch(e){
+                console.error(e);
+                message.channel.send("I don't understand.");
+                return;
+            }
+
             args.shift();
             return cmd.run(args, (txt) => {
                 message.channel.send(txt);

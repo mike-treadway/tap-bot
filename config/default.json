@@ -1,5 +1,6 @@
 {
 	"tap-list-file": "./tap-list.json",
+	"inventory-file": "inventory.json",
 	"ftp": {
 		"host": "",
 		"user": "",

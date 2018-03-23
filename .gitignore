@@ -63,3 +63,5 @@ typings/
 # Config
 config/local.json
 commands/set/tap-list.json
+
+./inventory.json

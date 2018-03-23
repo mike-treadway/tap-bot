@@ -1,4 +1,4 @@
-var AskTapState = require('../set/AskTapState');
+var StoreBeerState = require('../store/StoreBeerState');
 
 function ConfirmBeerState(beer){
     this._beer = beer;
@@ -7,6 +7,7 @@ function ConfirmBeerState(beer){
 ConfirmBeerState.prototype.process = async function(message) {
     var beer = this._beer;
     this._beer = {
+        "id": beer.name,
         "name": beer.name,
         "description": "",
         "abv": beer.abv,
@@ -26,11 +27,7 @@ ConfirmBeerState.prototype.process = async function(message) {
 
     message.channel.send(`Is this correct? \n\n\t**Brewery**: ${this._beer.breweries[0].name}\n\t**Beer**: ${this._beer.name}\n\t**Style**: ${this._beer.style.name || "?"}\n\t**ABV**: ${this._beer.abv || "?"}`)
 
-    return new YesNoState((message) => {
-
-        message.channel.send("Which tap?");
-        return AskTapState.new(this._beer);
-    }, undefined);
+    return StoreBeerState.new(this._beer);
 }
 
 module.exports = {
