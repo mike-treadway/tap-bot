@@ -1,9 +1,10 @@
 var BreweryDb = require('brewerydb-node'),
     _ = require('lodash'),
+    config = require('config'),
     Promise = require('bluebird'),
     AskBeerState = require('./AskBeerState');
 
-var brewdb = new BreweryDb('6e0cc8998b5fa92aef5c0fafa48c525b');
+var brewdb = new BreweryDb(config.breweryDbToken);
 Promise.promisifyAll(brewdb.search);
 
 module.exports.run = async function(args, respond){
