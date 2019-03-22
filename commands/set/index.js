@@ -13,14 +13,7 @@ var inventoryFile = path.join(path.join(__dirname, "../../"), config.get('invent
 
 
 module.exports.run = async function(args, respond){
-    var query = args.join(' ').trim();
 
-    if (!query){
-        respond("You didn't specify a brewery and beer name. Type 'tb help' for details.");
-        return;
-    }
-    
-    //var results = await brewdb.search.beersAsync({ q:query, type: "beer", withBreweries: "Y" });
     try {
         fs.statSync(inventoryFile);
     } catch(e){
