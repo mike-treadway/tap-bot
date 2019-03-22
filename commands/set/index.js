@@ -54,6 +54,6 @@ module.exports.run = async function(args, respond){
 
 function describeBeer(item){
     var brewery = item.breweries.map(b => b.name).join(', ');
-    return `${brewery}: ${item.nameDisplay || item.name}`;
+    return `${brewery}: ${item.nameDisplay || item.name} - ${item.style ? item.style.name : ""}`;
 }
 
